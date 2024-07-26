@@ -19,7 +19,7 @@
 > Choose properties > Copy location (or) click explorer symbol to open that location
 > Open that location in cmd propmt
 
-ex: D:\Workspace7AM_SpringBoot\06SpringBootProfilesExOne\target>
+ex: D:\STSWorkspace\Spring01SpringBootProfiles\target>
 
 > now execute command:  
 	java  -jar  <jarname>.jar  --spring.profiles.active=qa

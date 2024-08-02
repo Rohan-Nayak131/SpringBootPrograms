@@ -3,7 +3,7 @@ my:
     driver: Oracle
     pwd: raghu
     url: jdbc-oracle
-    username: ashok
+    user: ashok
 ---
 spring:
   config:
@@ -17,7 +17,7 @@ my:
     driver: MySQL
     pwd: raghu
     url: jdbc-mysql
-    username: ashok
+    user: ashok
 ---
 spring:
   config:
@@ -31,4 +31,4 @@ my:
     driver: Postgress
     pwd: raghu
     url: jdbc-psg
-    username: ashok    
+    user: ashok
